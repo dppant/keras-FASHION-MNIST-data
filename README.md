@@ -1,5 +1,5 @@
 # Keras-FASHION-MNIST-data
-##### Images I have used in ML course assignmets.
+##### Images used in ML course assignmets.
 https://user-images.githubusercontent.com/30393611/78395173-03203d00-75bb-11ea-92be-2c115aa4f8b3.png
 
 
