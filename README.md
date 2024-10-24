@@ -1,3 +1,3 @@
-This is my ML class project
-# Keras-FASHION-MNIST-data
-### Tutirial Project 
+### This is my ML class project
+### Keras-FASHION-MNIST-data
+
