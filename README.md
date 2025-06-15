@@ -1,6 +1,6 @@
 # Fashion-MNIST CNN Classifier
 
-This project implements a Convolutional Neural Network (CNN) using Keras to classify grayscale clothing images from the Fashion-MNIST dataset. The model was built and trained as part of a graduate-level Machine Learning course to demonstrate image classification using deep learning.
+This project implements a Convolutional Neural Network (CNN) using Keras to classify grayscale clothing images from the Fashion-MNIST dataset. The model was built and trained as `part of a graduate-level Machine Learning course` to demonstrate image classification using deep learning.
 
 ## Objective
 
